@@ -1,18 +1,18 @@
 # 장국진 (JANG GUK JIN)
 
-**Mobile:** 010-5159-2661
-
-**Email:** jgj455@gmail.com
-
-**Blog:** https://medium.com/@jgj455
-
-**Github:** https://github.com/jgj0131
+> **Mobile:** 010-5159-2661
+>
+> **Email:** jgj455@gmail.com
+>
+> **Blog:** https://medium.com/@jgj455
+>
+> **Github:** https://github.com/jgj0131
 
 ## 학력 및 경력
 
 ### 학력
 
-울산대학교 IT융합
+> 울산대학교 IT융합
 
 ### 경력
 
@@ -52,7 +52,7 @@
 
 ### 코드스쿼드
 
-코드스쿼드에서 진행한 프로젝트
+> 코드스쿼드에서 진행한 프로젝트
 
 - [사다리게임](https://github.com/jgj0131/swift-laddergame)
 - [좌표계산기](https://github.com/jgj0131/swift-coordinate)
