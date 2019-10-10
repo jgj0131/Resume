@@ -50,6 +50,18 @@
 
 ## 프로젝트
 
+### 급해 (공중화장실 지도 및 안심 서비스)
+
+> **인원:** 1명
+>
+> **기간:** 2019.08.09 ~ 2019.10.10(App Store 출시) 이후 꾸준히 업데이트 중
+>
+> **내용:** 공중 화장실 지도 및 안심 서비스
+>
+> Github: [Urgent](https://github.com/jgj0131/Urgent)
+>
+> [App Store](https://apps.apple.com/kr/app/%EA%B8%89%ED%95%B4/id1482602320?l=en)
+
 ### 새로운 iOS Keyboard 제작
 
 > **인원:** 국민대학교 루오타오 교수님 외 2명
