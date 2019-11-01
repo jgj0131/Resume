@@ -37,7 +37,11 @@
 #### Swift
 
 - 기본 문법 숙지
-- UIKit
+- AutoLayout
+- API 활용 가능
+- Realm Swift
+- 앱 출시 경험 있음
+- Keyboard Extension
 
 #### Python
 
@@ -51,6 +55,11 @@
 #### Sketch
 
 - 기본 동작 숙지 및 이해
+
+#### Github
+
+- 기본 문법 숙지
+- 협업 가능
 
 ## 프로젝트
 
