@@ -72,7 +72,7 @@
 >
 > **내용:** 공중 화장실 지도 및 안심 서비스
 >
-> Github: [Urgent](https://github.com/jgj0131/Urgent)
+> **Github:** [Urgent](https://github.com/jgj0131/Urgent)
 >
 > [App Store](https://apps.apple.com/kr/app/%EA%B8%89%ED%95%B4/id1482602320?l=en)
 
@@ -83,6 +83,8 @@
 > **기간:** 2019.08.19 ~
 >
 > **내용:** 사용자 경험을 더욱 반영한 특수한 Keyboard 제작
+>
+> **Github:** [CustomKeyboard_Portfolio](https://github.com/jgj0131/CustomKeyboard_Portfolio)
 
 ### 코드스쿼드
 
