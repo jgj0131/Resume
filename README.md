@@ -42,17 +42,46 @@
 - Realm Swift
 - 앱 출시 경험 있음
 - Keyboard Extension
+- SwiftUI
+
+### Swift Library
+
+- SnapKit
+- SwiftRedis
+- GooglePlaces, GoogleMaps, GoogleMobileAds
 
 #### Python
 
 - 기본 문법 숙지, 웹크롤링
 - 분석 관련 패키지(pandas, tensorflow, keras, koNLPy ) 활용
+- Django
 
 #### JAVA
 
 - 기본 문법 숙지
 
+### DB
+
+- MySQL
+- DynamoDB
+- Redis
+
+### AWS
+
+- EC2
+- Lightsail
+- Amplify
+
+### Firebase
+
+- Authentication
+
 #### Sketch
+
+- 기본 동작 숙지 및 이해
+- 협업 가능
+
+### Zeplin
 
 - 기본 동작 숙지 및 이해
 - 협업 가능
@@ -62,7 +91,7 @@
 - 기본 문법 숙지
 - 협업 가능
 
-## 프로젝트
+## 개인 프로젝트
 
 ### 급해 (공중화장실 지도 및 안심 서비스)
 
@@ -97,6 +126,10 @@
 - [Photoframe](https://github.com/jgj0131/swift-photoframe)
 - [자판기](https://github.com/jgj0131/swift-vendingmachine)
 - [자판기App](https://github.com/jgj0131/swift-vendingmachineapp)
+
+## 회사 프로젝트
+
+
 
 ## 수상경력
 
