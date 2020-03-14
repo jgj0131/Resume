@@ -32,6 +32,14 @@
 - 기타 업무 보조
 - Machine Learning에 대한 Study 공유
 
+#### Lounge'lab
+
+> iOS Developer (2020.01~ )
+
+- 웹사이트 업데이트
+- 안드로이드App 유지 보수 및 업데이트
+- iOS App 개발, 유지보수 및 업데이트
+
 ## 보유 기술
 
 #### Swift
@@ -44,7 +52,7 @@
 - Keyboard Extension
 - SwiftUI
 
-### Swift Library
+#### Swift Library
 
 - SnapKit
 - SwiftRedis
@@ -60,19 +68,19 @@
 
 - 기본 문법 숙지
 
-### DB
+#### DB
 
 - MySQL
 - DynamoDB
 - Redis
 
-### AWS
+#### AWS
 
 - EC2
 - Lightsail
 - Amplify
 
-### Firebase
+#### Firebase
 
 - Authentication
 
@@ -81,7 +89,7 @@
 - 기본 동작 숙지 및 이해
 - 협업 가능
 
-### Zeplin
+#### Zeplin
 
 - 기본 동작 숙지 및 이해
 - 협업 가능
