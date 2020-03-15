@@ -83,6 +83,8 @@
 #### Firebase
 
 - Authentication
+- Cloud Firestore
+- Realtime Database
 
 #### Sketch
 
