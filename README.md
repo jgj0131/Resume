@@ -39,6 +39,7 @@
 - 웹사이트 업데이트
 - 안드로이드App 유지 보수 및 업데이트
 - iOS App 개발, 유지보수 및 업데이트
+- DB 관리
 
 ## 보유 기술
 
@@ -47,9 +48,9 @@
 - 기본 문법 숙지
 - AutoLayout
 - API 활용 가능
-- Realm Swift
 - 앱 출시 경험 있음
 - Keyboard Extension
+- SiriKit
 - SwiftUI
 
 #### Swift Library
@@ -57,6 +58,7 @@
 - SnapKit
 - SwiftRedis
 - GooglePlaces, GoogleMaps, GoogleMobileAds
+- Alamofire
 
 #### Python
 
@@ -67,6 +69,7 @@
 #### JAVA
 
 - 기본 문법 숙지
+- 안드로이드 App 개발
 
 #### DB
 
@@ -85,6 +88,7 @@
 - Authentication
 - Cloud Firestore
 - Realtime Database
+- Functions
 
 #### Sketch
 
