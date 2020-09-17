@@ -49,67 +49,93 @@
 
 #### Swift
 
-- 기본 문법 숙지
-- AutoLayout
-- API 활용 가능
-- 앱 출시 경험 있음
-- Keyboard Extension
-- SiriKit, Widgetkit
-- Sign in with Apple
-- SwiftUI
+> **기본 문법 숙지**
+>
+> **AutoLayout**
+>
+> **API 활용 가능**
+>
+> **앱 출시 경험 있음**
+>
+> **Keyboard Extension**
+>
+> **SiriKit, Widgetkit**
+>
+> **Sign in with Apple**
+>
+> **SwiftUI**
 
 #### Swift Library
 
-- SnapKit
-- SwiftRedis
-- GooglePlaces, GoogleMaps, GoogleMobileAds
-- Alamofire
+> **SnapKit**
+>
+> **SwiftRedis**
+>
+> **GooglePlaces, GoogleMaps, GoogleMobileAds**
+>
+> **Alamofire**
+>
+> **각종 소셜 로그인 (Naver, Kakao, Facebook, etc...)**
 
 #### Python
 
-- 기본 문법 숙지, 웹크롤링
-- 분석 관련 패키지(pandas, tensorflow, keras, koNLPy ) 활용
-- Django
+> **기본 문법 숙지, 웹크롤링**
+>
+> **분석 관련 패키지(pandas, tensorflow, keras, koNLPy ) 활용**
+>
+> **Django**
 
 #### JAVA
 
-- 기본 문법 숙지
-- 안드로이드 App 개발
+> **기본 문법 숙지**
+>
+> **안드로이드 App 개발**
 
 #### DB
 
-- MySQL
-- DynamoDB
-- Redis
+> **MySQL**
+>
+> **DynamoDB**
+>
+> **Redis**
 
 #### AWS
 
-- EC2
-- Lightsail
-- Amplify
+> **EC2**
+>
+> **Lightsail**
+>
+> **Amplify**
 
 #### Firebase
 
-- Authentication
-- Cloud Firestore
-- Realtime Database
-- Storage
-- Functions
+> **Authentication**
+>
+> **Cloud Firestore**
+>
+> **Realtime Database**
+>
+> **Storage**
+>
+> **Functions**
 
 #### Sketch
 
-- 기본 동작 숙지 및 이해
-- 협업 가능
+> **기본 동작 숙지 및 이해**
+>
+> **협업 가능**
 
 #### Zeplin
 
-- 기본 동작 숙지 및 이해
-- 협업 가능
+> **기본 동작 숙지 및 이해**
+>
+> **협업 가능**
 
 #### Github
 
-- 기본 문법 숙지
-- 협업 가능
+> **기본 문법 숙지**
+>
+> **협업 가능**
 
 ---
 
