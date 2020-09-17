@@ -8,6 +8,8 @@
 >
 > **Github:** https://github.com/jgj0131
 
+---
+
 ## 학력 및 경력
 
 ### 학력
@@ -36,10 +38,12 @@
 
 > iOS Developer (2020.01~ )
 
-- 웹사이트 업데이트
-- 안드로이드App 유지 보수 및 업데이트
+- Web 업데이트
+- Android App 개발, 유지 보수 및 업데이트
 - iOS App 개발, 유지보수 및 업데이트
-- DB 관리
+- DB 및 서버(Firebase, AWS) 관리
+
+---
 
 ## 보유 기술
 
@@ -50,7 +54,8 @@
 - API 활용 가능
 - 앱 출시 경험 있음
 - Keyboard Extension
-- SiriKit
+- SiriKit, Widgetkit
+- Sign in with Apple
 - SwiftUI
 
 #### Swift Library
@@ -88,6 +93,7 @@
 - Authentication
 - Cloud Firestore
 - Realtime Database
+- Storage
 - Functions
 
 #### Sketch
@@ -104,6 +110,8 @@
 
 - 기본 문법 숙지
 - 협업 가능
+
+---
 
 ## 개인 프로젝트
 
@@ -141,9 +149,33 @@
 - [자판기](https://github.com/jgj0131/swift-vendingmachine)
 - [자판기App](https://github.com/jgj0131/swift-vendingmachineapp)
 
+---
+
 ## 회사 프로젝트
 
+### LOUNGE'X App 
 
+: 
+
+> **인원:**
+>
+> **기간:**
+>
+> **역할:**
+>
+> **내용:**
+
+### 무인상회
+
+### Baris(바리스타 로봇)
+
+### Baris Can(콜드브루캔 로봇)
+
+### Botiful(아이스크림 로봇)
+
+### LOUNGE'LAB Homepage
+
+---
 
 ## 수상경력
 
@@ -153,6 +185,8 @@
 
 - 울산대학교 IT융합 졸업전시회
 - 우수상 수상
+
+---
 
 ## 활동
 
