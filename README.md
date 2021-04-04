@@ -50,6 +50,8 @@
 - API 활용 가능
 - 앱 출시 경험 있음
 - Keyboard Extension
+- CoreLocation
+- AVFounddation(AVCaptureSession, AVCapturedeviceInput,...)
 - SiriKit
 - SwiftUI
 
@@ -128,6 +130,18 @@
 > **내용:** 사용자 경험을 더욱 반영한 특수한 Keyboard 제작
 >
 > **Github:** [CustomKeyboard_Portfolio](https://github.com/jgj0131/CustomKeyboard_Portfolio)
+
+### 콜센터북 (콜센터 홈페이지 및 전화번호부)
+
+> **인원:** 1명
+>
+> **기간:** 2020.03.16 ~ 2020.07.01(App Store 출시) 이후 꾸준히 업데이트 중
+>
+> **내용:** 콜센터 홈페이지 및 전화번호부
+>
+> **Github:** [CallCenterContacts](https://github.com/jgj0131/CallCenterContacts)
+>
+> [App Store](https://apps.apple.com/kr/app/콜센터북/id1521099053)
 
 ### 코드스쿼드
 
