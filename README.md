@@ -4,7 +4,7 @@
 >
 > **Email:** jgj455@gmail.com
 >
-> **Blog:** https://medium.com/@jgj455
+> **Blog:** https://aiden-ios.tistory.com
 >
 > **Github:** https://github.com/jgj0131
 
@@ -51,7 +51,7 @@
 
 > **기본 문법 숙지**
 >
-> **AutoLayout**
+> **SwiftUI, Combine**
 >
 > **API 활용 가능**
 >
@@ -63,11 +63,9 @@
 >
 > **Sign in with Apple**
 >
-> **CoreLocation**
+> **CoreLocation, CoreData**
 >
 > **AVFounddation(AVCaptureSession, AVCapturedeviceInput,...)**
->
-> **SwiftUI**
 
 #### Swift Library
 
@@ -122,6 +120,8 @@
 > **Storage**
 >
 > **Functions**
+>
+> **Cloud Messaging**
 
 #### Sketch
 
