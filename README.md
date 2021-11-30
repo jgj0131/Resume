@@ -16,6 +16,8 @@
 
 > 울산대학교 IT융합
 
+
+
 ### 경력
 
 #### <SK에너지 울산Complex>
@@ -47,52 +49,75 @@
 > - iOS App 개발, 유지보수 및 업데이트
 > - DB 및 서버(Firebase, AWS) 관리
 
-1. **LOUNGE'X App (iOS): **<u>Robot 카페 LOUNGE'X에서 주문 및 Drive Thru 사용을 위한 App</u>
-   \- SwiftUI
-   \- MVVM
-   \- Combine, Alamofire, Security
-   \- AWS, Firebase
-   \- Sing in with Apple, Social Sign in
-   \- NICE PG, KIS
 
-2. **무인상회 (iOS): **<u>Grip And Go 방식의 무인 냉장고 사용을 위한 App</u>
-   \- Swift
-   \- MVC
-   \- Alamofire, Redis, Location, AVFoundation
-   \- AWS, Firebase
-   \- Sing in with Apple, Social Sign in
 
-   \- [URL](https://www.youtube.com/watch?v=3SA5QGpF0Gw&t=2s)
+**1. LOUNGE'X App (iOS):** <u>Robot 카페 LOUNGE'X에서 주문 및 Drive Thru 사용을 위한 App</u>
 
-3. **Brownbana Kiosk: **<u>로봇 아이스크림 Brownbana 키오스크 App</u>
+\- SwiftUI
 
-   \- Java
+\- MVVM
 
-   \- NICE, KIS VAN
+\- Combine, Alamofire, Security
 
-   \- MQTT
+\- AWS, Firebase
 
-   \- Firebase
+\- Sing in with Apple, Social Sign in
 
-   \- [URL](https://www.youtube.com/watch?v=4OcXQKHnzZs)
+\- NICE PG, KIS
 
-   
 
-4. **Baris App (android): **<u>Robot Control을 위한 App</u>
-   \- Java
-   \- Socket 통신
-   \- redis
 
-   \- [URL](https://www.youtube.com/watch?v=ANv22xRI-I4)
+**2. 무인상회 (iOS):** <u>Grip And Go 방식의 무인 냉장고 사용을 위한 App</u>
 
-   
+\- Swift
 
-5. **LOUNGE'LAB Website: **<u>LOUNGE'LAB 홈페이지</u>
-   \- Python, HTML
-   \- Django
-   \- AWS
+\- MVC
 
-   \- [URL](https://loungelab.io)
+\- Alamofire, Redis, Location, AVFoundation
+
+\- AWS, Firebase
+
+\- Sing in with Apple, Social Sign in
+
+\- [URL](https://www.youtube.com/watch?v=3SA5QGpF0Gw&t=2s)
+
+
+
+**3. Brownbana Kiosk:** <u>로봇 아이스크림 Brownbana 키오스크 App</u>
+
+\- Java
+
+\- NICE, KIS VAN
+
+\- MQTT
+
+\- Firebase
+
+\- [URL](https://www.youtube.com/watch?v=4OcXQKHnzZs)
+
+
+
+**4. Baris App (android):** <u>Robot Control을 위한 App</u>
+
+\- Java
+
+\- Socket 통신
+
+\- redis
+
+\- [URL](https://www.youtube.com/watch?v=ANv22xRI-I4)
+
+
+
+**5. LOUNGE'LAB Website:** <u>LOUNGE'LAB 홈페이지</u>
+
+\- Python, HTML
+
+\- Django
+
+\- AWS
+
+\- [URL](https://loungelab.io)
 
 
 
@@ -100,9 +125,9 @@
 
 ## 보유 기술
 
-#### 1. Language
+#### **1. Language**
 
-### Swift
+**Swift**
 
 > - **기본 문법 숙지**
 >
@@ -128,7 +153,7 @@
 
 
 
-### Python
+**Python**
 
 > - **기본 문법 숙지, 웹크롤링**
 >
@@ -138,7 +163,7 @@
 
 
 
-### Java
+**Java**
 
 > - **기본 문법 숙지**
 >
@@ -154,13 +179,13 @@
 
 ### 3. Cloud
 
-#### AWS
+**AWS**
 
 > - **EC2**, **Lightsail**, **Amplify**
 
 
 
-#### Firebase
+**Firebase**
 
 > - **Authentication** 
 >
@@ -180,6 +205,8 @@
 > - **Github**
 > - **Zeplin**
 > - **Sketch**
+
+
 
 ---
 
