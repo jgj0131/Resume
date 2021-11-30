@@ -57,71 +57,61 @@
 
 **1. LOUNGE'X App (iOS):** <u>Robot 카페 LOUNGE'X에서 주문 및 Drive Thru 사용을 위한 App</u>
 
+> **역할:** iOS App 개발, PG 연동
+>
 > - SwiftUI
->
-> - MVVM
->
+>- MVVM
 > - Combine, Alamofire, Security
->
-> - AWS, Firebase
->
+>- AWS, Firebase
 > - Sing in with Apple, Social Sign in
->
-> - NICE PG, KIS
+>- NICE PG, KIS
 
 
 
 **2. 무인상회 (iOS):** <u>Grip And Go 방식의 무인 냉장고 사용을 위한 App</u>
 
+> **역할:** iOS App 개발 및 Firebase Cloud 관리
+>
 > - Swift
->
-> - MVC
->
+>- MVC
 > - Alamofire, Redis, Location, AVFoundation
->
-> - AWS, Firebase
->
+>- AWS, Firebase
 > - Sing in with Apple, Social Sign in
->
-> - [URL](https://www.youtube.com/watch?v=3SA5QGpF0Gw&t=2s)
+>- [URL](https://www.youtube.com/watch?v=3SA5QGpF0Gw&t=2s)
 
 
 
 **3. Brownbana Kiosk:** <u>로봇 아이스크림 Brownbana 키오스크 App</u>
 
+> **역할:** android App 개발, Firebase Cloud 관리 및 VAN 연동
+>
 > - Java
->
-> - NICE, KIS VAN
->
+>- NICE, KIS VAN
 > - MQTT
->
-> - Firebase
->
+>- Firebase
 > - [URL](https://www.youtube.com/watch?v=4OcXQKHnzZs)
 
 
 
 **4. Baris App (android):** <u>Robot Control을 위한 App</u>
 
+> **역할:** android App 개발, 로봇과 Socket 연결
+>
 > - Java
->
-> - Socket 통신
->
+>- Socket 통신
 > - redis
->
-> - [URL](https://www.youtube.com/watch?v=ANv22xRI-I4)
+>- [URL](https://www.youtube.com/watch?v=ANv22xRI-I4)
 
 
 
 **5. LOUNGE'LAB Website:** <u>LOUNGE'LAB 홈페이지</u>
 
+> **역할:** 자사 홈페이지 개발
+>
 > - Python, HTML
->
-> - Django
->
+>- Django
 > - AWS
->
-> - [URL](https://loungelab.io)
+>- [URL](https://loungelab.io)
 
 
 
