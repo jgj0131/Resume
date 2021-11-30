@@ -22,102 +22,106 @@
 
 #### <SK에너지 울산Complex>
 
-> **계기기술팀 인턴 (2017.07 ~ 2017.12)**
->
-> - 구매사양서 및 입찰검토서 작성 보조
-> - 기타 업무 보조
-> - Machine Learning에 대한 Study 공유
+```
+* 계기기술팀 인턴 (2017.07 ~ 2017.12)
+
+- 구매사양서 및 입찰검토서 작성 보조
+- 기타 업무 보조
+- Machine Learning에 대한 Study 공유
+```
 
 
 
 ### <마이셀럽스>
 
-> **데이터 비즈니스팀 인턴 (2018.05 ~ 2018.12)**
->
-> - 웹 크롤링
-> - 데이터 기획
-> - 데이터 분석 및 정제
+```
+* 데이터 비즈니스팀 인턴 (2018.05 ~ 2018.12)
+
+- 웹 크롤링
+- 데이터 기획
+- 데이터 분석 및 정제
+```
 
 
 
 #### <LOUNGE'LAB>
 
-> **iOS Developer (2020.01~ )**
->
-> - Web 업데이트
-> - Android App 개발, 유지 보수 및 업데이트
-> - iOS App 개발, 유지보수 및 업데이트
-> - DB 및 서버(Firebase, AWS) 관리
+```
+* iOS Developer (2020.01~ )
 
-
+- Web 업데이트
+- Android App 개발, 유지 보수 및 업데이트
+- iOS App 개발, 유지보수 및 업데이트
+- DB 및 서버(Firebase, AWS) 관리
+```
 
 **1. LOUNGE'X App (iOS):** <u>Robot 카페 LOUNGE'X에서 주문 및 Drive Thru 사용을 위한 App</u>
 
-\- SwiftUI
-
-\- MVVM
-
-\- Combine, Alamofire, Security
-
-\- AWS, Firebase
-
-\- Sing in with Apple, Social Sign in
-
-\- NICE PG, KIS
+> - SwiftUI
+>
+> - MVVM
+>
+> - Combine, Alamofire, Security
+>
+> - AWS, Firebase
+>
+> - Sing in with Apple, Social Sign in
+>
+> - NICE PG, KIS
 
 
 
 **2. 무인상회 (iOS):** <u>Grip And Go 방식의 무인 냉장고 사용을 위한 App</u>
 
-\- Swift
-
-\- MVC
-
-\- Alamofire, Redis, Location, AVFoundation
-
-\- AWS, Firebase
-
-\- Sing in with Apple, Social Sign in
-
-\- [URL](https://www.youtube.com/watch?v=3SA5QGpF0Gw&t=2s)
+> - Swift
+>
+> - MVC
+>
+> - Alamofire, Redis, Location, AVFoundation
+>
+> - AWS, Firebase
+>
+> - Sing in with Apple, Social Sign in
+>
+> - [URL](https://www.youtube.com/watch?v=3SA5QGpF0Gw&t=2s)
 
 
 
 **3. Brownbana Kiosk:** <u>로봇 아이스크림 Brownbana 키오스크 App</u>
 
-\- Java
-
-\- NICE, KIS VAN
-
-\- MQTT
-
-\- Firebase
-
-\- [URL](https://www.youtube.com/watch?v=4OcXQKHnzZs)
+> - Java
+>
+> - NICE, KIS VAN
+>
+> - MQTT
+>
+> - Firebase
+>
+> - [URL](https://www.youtube.com/watch?v=4OcXQKHnzZs)
 
 
 
 **4. Baris App (android):** <u>Robot Control을 위한 App</u>
 
-\- Java
-
-\- Socket 통신
-
-\- redis
-
-\- [URL](https://www.youtube.com/watch?v=ANv22xRI-I4)
+> - Java
+>
+> - Socket 통신
+>
+> - redis
+>
+> - [URL](https://www.youtube.com/watch?v=ANv22xRI-I4)
 
 
 
 **5. LOUNGE'LAB Website:** <u>LOUNGE'LAB 홈페이지</u>
 
-\- Python, HTML
-
-\- Django
-
-\- AWS
-
-\- [URL](https://loungelab.io)
+> - Python, HTML
+>
+> - Django
+>
+> - AWS
+>
+> - [URL](https://loungelab.io)
 
 
 
