@@ -102,33 +102,33 @@
 
 #### 1. Language
 
-### **<Swift>**
+### Swift
 
-> **\- 기본 문법 숙지**
+> - **기본 문법 숙지**
 >
-> **\- 앱 출시 경험 있음**
+> - **앱 출시 경험 있음**
 >
-> **\- SwiftUI, Combine**
+> - **SwiftUI, Combine**
 >
-> **\- API 활용 가능**
+> - **API 활용 가능**
 >
-> **\- Sign in with Apple**
+> - **Sign in with Apple**
 >
-> **\- KeyChain**
+> - **KeyChain**
 >
-> **\- CoreLocation, CoreData**
+> - **CoreLocation, CoreData**
 >
-> **\- AVFounddation (AVCaptureSession, AVCapturedeviceInput,...)**
+> - **AVFounddation (AVCaptureSession, AVCapturedeviceInput,...)**
 >
-> **\- Extension (Keyboard Extension, SiriKit, Widgetkit, CloudKit)**
+> - **Extension (Keyboard Extension, SiriKit, Widgetkit, CloudKit)**
 >
-> **\- Library (Alamofire, SnapKit, GooglePlaces, GoogleMaps, GoogleMobileAds, 각종 소셜 로그인 (Naver, Kakao, Facebook, etc...)**
+> - **Library (Alamofire, SnapKit, GooglePlaces, GoogleMaps, GoogleMobileAds, 각종 소셜 로그인 (Naver, Kakao, Facebook, etc...)**
 >
-> **\- Design Pattern: MVVM, MVP, MVC**
+> - **Design Pattern: MVVM, MVP, MVC**
 
 
 
-### **<Python>**
+### Python
 
 > - **기본 문법 숙지, 웹크롤링**
 >
@@ -136,9 +136,9 @@
 >
 > - **Django**
 
-#### 
 
-### **<Java>**
+
+### Java
 
 > - **기본 문법 숙지**
 >
@@ -146,7 +146,7 @@
 
 
 
-#### 2. DB
+### 2. DB
 
 > - **MySQL**, **DynamoDB**, **Redis**
 
@@ -154,13 +154,13 @@
 
 ### 3. Cloud
 
-#### **<AWS>**
+#### AWS
 
 > - **EC2**, **Lightsail**, **Amplify**
 
 
 
-#### **<Firebase>**
+#### Firebase
 
 > - **Authentication** 
 >
