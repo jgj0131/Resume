@@ -149,6 +149,8 @@
 >
 > - **API 활용 가능**
 >
+> - **RESTful API**
+>
 > - **Sign in with Apple**
 >
 > - **KeyChain**
@@ -157,9 +159,25 @@
 >
 > - **AVFounddation (AVCaptureSession, AVCapturedeviceInput,...)**
 >
-> - **Extension (Keyboard Extension, SiriKit, Widgetkit, CloudKit)**
+> - **Extension **
 >
-> - **Library (Alamofire, SnapKit, GooglePlaces, GoogleMaps, GoogleMobileAds, 각종 소셜 로그인 (Naver, Kakao, Facebook, etc...)**
+>   ```
+>   - Keyboard Extension, 
+>   - SiriKit
+>   - Widgetkit
+>   - CloudKit
+>   - App Clip
+>   ```
+>
+> - **Library **
+>
+>   ```
+>   - SnapKit
+>   - Alamofire
+>   - GooglePlaces, GoogleMaps, GoogleMobileAds
+>   - 각종 소셜 로그인 (Naver, Kakao, Facebook, etc...)
+>   - Lottie
+>   ```
 >
 > - **Design Pattern: MVVM, MVP, MVC**
 
