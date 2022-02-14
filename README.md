@@ -159,17 +159,17 @@
 >
 > - **AVFounddation (AVCaptureSession, AVCapturedeviceInput,...)**
 >
-> - **Extension **
+> - **Extension**
 >
 >   ```
->   - Keyboard Extension, 
+>   - Keyboard Extension
 >   - SiriKit
 >   - Widgetkit
 >   - CloudKit
 >   - App Clip
 >   ```
 >
-> - **Library **
+> - **Library**
 >
 >   ```
 >   - SnapKit
