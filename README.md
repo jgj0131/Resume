@@ -32,7 +32,11 @@
 
 ### 학력
 
-> 울산대학교 IT융합
+### <울산대학교>
+
+> **전공:** IT융합 (컴퓨터정보통신공학)
+>
+> **기간:** 2011.03 ~ 2018.02
 
 
 
@@ -67,68 +71,92 @@
 ```
 * iOS Developer (2020.01~ )
 
-- Web 업데이트
-- Android App 개발, 유지 보수 및 업데이트
 - iOS App 개발, 유지보수 및 업데이트
 - DB 및 서버(Firebase, AWS) 관리
+- Web 업데이트
+- Android App 개발, 유지 보수 및 업데이트
 ```
 
-**1. LOUNGE'X App (iOS):** <u>Robot 카페 LOUNGE'X에서 주문 및 Drive Thru 사용을 위한 App</u>
+**1. LOUNGE'X App (iOS)** 
+
+: Robot 카페 LOUNGE'X에서 주문 및 Drive Thru 사용을 위한 App
 
 > **역할:** iOS App 개발, PG 연동
 >
-> - SwiftUI
->- MVVM
-> - Combine, Alamofire, Security
->- AWS, Firebase
-> - Sing in with Apple, Social Sign in
->- NICE PG, KIS
+> - **Language:** Swift (SwiftUI)
+>- **Design Pattern:** MVVM
+> - **Library:** Combine, Alamofire, Security, AVFoundation, Location
+>- **Server:** AWS (EC2), REST API
+> - **ETC:** Sing in with Apple, Social Sign in, NICE PG, KIS
+>- **기능:** 소셜 로그인, 장바구니, 사용자 얼굴 등록, 포인트 카드, 주문 조회 
 
 
 
-**2. 무인상회 (iOS):** <u>Grip And Go 방식의 무인 냉장고 사용을 위한 App</u>
+**2. 무인상회 (iOS)** 
 
-> **역할:** iOS App 개발 및 Firebase Cloud 관리
+: Grip And Go 방식의 무인 냉장고 사용을 위한 App
+
+> **역할:** iOS App 개발 및 Firebase 관리
 >
-> - Swift
->- MVC
-> - Alamofire, SnapKit, Location, AVFoundation
->- AWS, Firebase, Redis
-> - Sing in with Apple, Social Sign in
->- [URL](https://www.youtube.com/watch?v=3SA5QGpF0Gw&t=2s)
+> - **Language:** Swift (UIKit)
+> - **Desing Pattern:** MVC
+> - **Library:** Alamofire, SnapKit, Location, AVFoundation
+> - **Server:** AWS (EC2), Firebase (Storage, Firestore), Redis
+> - **ETC:** Sing in with Apple, Social Sign in
+> - **기능:** 소셜 로그인, 사용자 얼굴 등록, 블루투스를 활용하여 무인상회 근처에 있을 때 등록 된 얼굴이나 QR인식을 통해 문열기, 사용자가 물건을 집으면 자동으로 결제
+> - [URL](https://www.youtube.com/watch?v=3SA5QGpF0Gw&t=2s)
 
 
 
-**3. Brownbana Kiosk:** <u>로봇 아이스크림 Brownbana 키오스크 App</u>
+**3. 포인트 카드 인식 App (iOS)**
 
-> **역할:** android App 개발, Firebase Cloud 관리 및 VAN 연동
+: 매장에서 판매하는 포인트 카드를 조회 및 사용 그리고 취소를 할 수 있는 직원용 App
+
+> **역할:** iOS App 개발
 >
-> - Java
->- NICE, KIS VAN
-> - MQTT
->- Firebase
-> - [URL](https://www.youtube.com/watch?v=4OcXQKHnzZs)
+> - **Language:** Swift (UIKit)
+> - **Desing Pattern:** MVC
+> - **Library:** Alamofire, SnapKit
+> - **Server:** AWS (EC2)
+> - **기능:** QR로 포인트 카드 인식, 사용 및 취소, 사용내역 조회
 
 
 
-**4. Baris App (android):** <u>Robot Control을 위한 App</u>
+**4. Brownbana Kiosk** 
+
+: 로봇 아이스크림 Brownbana 키오스크 App
+
+> **역할:** android App 개발, Firebase 관리 및 VAN 연동
+>
+> - **Language:** Java
+>- **Server:** Firebase (Storage, Firestroe)
+> - **ETC:** MQTT, NICE and KIS VAN
+>- [URL](https://www.youtube.com/watch?v=4OcXQKHnzZs)
+
+
+
+**5. Baris App (android)**
+
+: Robot Control을 위한 App
 
 > **역할:** android App 개발, 로봇과 Socket 연결
 >
-> - Java
->- Socket 통신
-> - redis
+> - **Language:** Java
+>- **Server:** Redis
+> - **ETC:** Socket 통신
 >- [URL](https://www.youtube.com/watch?v=ANv22xRI-I4)
 
 
 
-**5. LOUNGE'LAB Website:** <u>LOUNGE'LAB 홈페이지</u>
+**6. LOUNGE'LAB Website**
 
-> **역할:** 자사 홈페이지 개발
+: LOUNGE'LAB 홈페이지
+
+> **역할:** 자사 홈페이지 유지보수
 >
-> - Python, HTML
->- Django
-> - AWS
+> - **Language:** Python, HTML
+>- **Framework:** Django
+> - **Server:** AWS (Lightsail)
 >- [URL](https://loungelab.io)
 
 
